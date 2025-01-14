@@ -1,5 +1,5 @@
 import { Icons } from '@/components/icons'
-import { HomeIcon, NotebookIcon, DownloadIcon } from 'lucide-react'
+import { HomeIcon, NotebookIcon, BookLock, Handshake } from 'lucide-react'
 
 export const DATA = {
 	name: 'Soulmate',
@@ -19,8 +19,10 @@ export const DATA = {
 
 	navbar: [
 		{ href: '/', icon: HomeIcon, label: 'Home' },
-		{ href: '/app', icon: DownloadIcon, label: 'App' },
-		{ href: '/blog', icon: NotebookIcon, label: 'Blog' },
+		// { href: '/app', icon: DownloadIcon, label: 'App' },
+		// { href: '/blog', icon: NotebookIcon, label: 'Blog' },
+		{ href: '/privacy', icon: BookLock, label: 'Privacy Policy' },
+		{ href: '/terms', icon: Handshake, label: 'Terms of Service' },
 	],
 	contact: {
 		email: 'soulmateapps@support.com',
