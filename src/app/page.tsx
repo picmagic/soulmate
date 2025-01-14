@@ -20,8 +20,8 @@ const secondRow = DATA.reviews.slice(DATA.reviews.length / 2)
 
 export default function Page() {
 	return (
-		<main className='flex flex-col min-h-[100dvh] space-y-10'>
-			<section id='hero'>
+		<main className='flex flex-col items-center min-h-[100dvh] space-y-10'>
+			<section id='hero' className='w-full'>
 				<div className='mx-auto w-full max-w-2xl space-y-8'>
 					<div className='gap-2 flex justify-between'>
 						<div className='flex-col flex flex-1 space-y-1.5'>
@@ -43,12 +43,12 @@ export default function Page() {
 								/>
 							</BlurFade>
 						</div>
-						<BlurFade delay={BLUR_FADE_DELAY}>
+						{/* <BlurFade delay={BLUR_FADE_DELAY}>
 							<Avatar className='size-28 border'>
 								<AvatarImage alt={DATA.name} src={DATA.avatarUrl} />
 								<AvatarFallback>{DATA.initials}</AvatarFallback>
 							</Avatar>
-						</BlurFade>
+						</BlurFade> */}
 					</div>
 				</div>
 			</section>
