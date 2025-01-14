@@ -154,7 +154,7 @@ export default function Page() {
 				</div>
 			</section>
 
-			<section id='reviews' className='max-w-screen overflow-hidden'>
+			{/* <section id='reviews' className='max-w-screen overflow-hidden'>
 				<div className='relative flex h-[500px]  flex-col items-center justify-center'>
 					<h2 className='text-3xl font-bold tracking-tighter sm:text-5xl mb-3'>
 						What Players Say
@@ -170,7 +170,7 @@ export default function Page() {
 						))}
 					</Marquee>
 				</div>
-			</section>
+			</section> */}
 
 			<section id='contact'>
 				<div className='grid items-center justify-center gap-4 px-4 text-center md:px-6 w-full py-12'>

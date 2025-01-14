@@ -23,7 +23,7 @@ export const DATA = {
 		{ href: '/blog', icon: NotebookIcon, label: 'Blog' },
 	],
 	contact: {
-		email: 'hello@example.com',
+		email: 'soulmateapps@support.com',
 		tel: '+123456789',
 		social: {
 			TikTok: {
