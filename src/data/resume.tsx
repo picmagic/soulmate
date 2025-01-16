@@ -62,18 +62,18 @@ export const DATA = {
 				'Create your own character customizing your own appearance, voice, and personality or find a character that suits you.',
 			image: '/create.png',
 		},
-		{
-			title: 'Chat with your Character',
-			description:
-				'24 hours a day, 7 days a week, your character will be there for you.',
-			image: '/chat.png',
-		},
-		{
-			title: 'View Character Inner Thoughts',
-			description:
-				'View your character inner thoughts and feelings, and how they react to your messages.',
-			image: '/thoughts.png',
-		},
+		// {
+		// 	title: 'Chat with your Character',
+		// 	description:
+		// 		'24 hours a day, 7 days a week, your character will be there for you.',
+		// 	image: '/chat.png',
+		// },
+		// {
+		// 	title: 'View Character Inner Thoughts',
+		// 	description:
+		// 		'View your character inner thoughts and feelings, and how they react to your messages.',
+		// 	image: '/thoughts.png',
+		// },
 		{
 			title: 'Increase Affection, and Get Married',
 			description:
