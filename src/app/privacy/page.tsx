@@ -265,9 +265,7 @@ export default function PrivacyPolicy() {
 				<p>
 					If you have any questions about our Privacy policy, please feel free
 					to contact us:{' '}
-					<a href='mailto:alexander.strom@icloud.com'>
-						alexander.strom@icloud.com
-					</a>
+					<a href='mailto:DeridderKoehn@gmail.com'>DeridderKoehn@gmail.com</a>
 				</p>
 			</section>
 		</div>

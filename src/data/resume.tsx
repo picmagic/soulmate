@@ -25,7 +25,7 @@ export const DATA = {
 		{ href: '/terms', icon: Handshake, label: 'Terms of Service' },
 	],
 	contact: {
-		email: 'alexander.strom@icloud.com',
+		email: 'DeridderKoehn@gmail.com',
 		tel: '+123456789',
 		social: {
 			TikTok: {

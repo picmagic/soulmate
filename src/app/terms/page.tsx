@@ -327,9 +327,7 @@ export default function TermsOfUse() {
 					We reserve the right to respond to user support requests. If you want
 					to submit a support request or have any questions about this Agreement
 					or the App, please contact us:{' '}
-					<a href='mailto:alexander.strom@icloud.com'>
-						alexander.strom@icloud.com
-					</a>
+					<a href='mailto:DeridderKoehn@gmail.com'>DeridderKoehn@gmail.com</a>
 				</p>
 			</section>
 		</div>
