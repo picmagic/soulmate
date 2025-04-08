@@ -241,6 +241,17 @@ export default function TermsOfUse() {
 					person&apos;s consent for tracking within the app and guarantee that
 					such consent is voluntary, explicit and unambiguous.
 				</p>
+				<h3>Technical Limitations</h3>
+				<p>
+					Clone voice generation relies on current technological capabilities and may exhibit minor deviations from the original voice. We do not guarantee 100% accuracy in replication.
+					Users assume all risks arising from technical limitations, including but not limited to identity misidentification or misinterpretation of synthesized speech.
+					Legal Use Obligations
+					Users warrant that provided voice samples are legally authorized and will not be used for unlawful activities (e.g., identity forgery, fraud, defamation).
+					Users bear full liability for misuse of clone voice technology. We reserve the right to pursue legal action against violators.
+					Limitation of Liability
+					We disclaim responsibility for losses caused by force majeure (e.g., cyberattacks, system failures), user negligence, or violations of this agreement.
+					This service is not intended for high-risk scenarios (e.g., medical, legal). Users assume all consequences from such applications.
+				</p>
 			</section>
 
 			<section className={styles.section}>
