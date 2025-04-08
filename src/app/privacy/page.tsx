@@ -74,6 +74,34 @@ export default function PrivacyPolicy() {
 					collect performance data and crash analytics.
 				</p>
 
+				<h3>Data Collection & Usage</h3>
+				<p>
+					Users explicitly authorize us to collect their voice samples and
+					related personal information (e.g., vocal characteristics, pitch, and
+					other biometric data) solely for the purpose of generating clone
+					voice technology. Collected voice data will strictly be used for
+					user-specified service scenarios (e.g., voice synthesis, customized
+					voice assistants). No secondary use is permitted without additional
+					user consent.
+				</p>
+				<h3>Data Storage & Security</h3>
+				<p>
+					All voice data will be encrypted and stored on secure servers with
+					restricted access controls. Data retention periods will be limited to
+					the minimum necessary for service provision, unless required by law.
+					Users may request permanent deletion of their data via the platform
+					at any time.
+				</p>
+				<h3>Data Sharing & Disclosure</h3>
+				<p>
+					User voice data will not be shared or sold to third parties without
+					explicit consent. If third-party technical partners (e.g., cloud
+					providers) are engaged for data processing, they will be contractually
+					bound to equivalent security and confidentiality standards.
+				</p>
+
+
+
 				<h3>Analytics information:</h3>
 				<p>
 					Information we collect automatically through the use of technology.
