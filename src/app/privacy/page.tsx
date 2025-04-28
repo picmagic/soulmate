@@ -9,7 +9,7 @@ export default function PrivacyPolicy() {
 			<section className={styles.section}>
 				<h2>Overview</h2>
 				<p>
-					Welcome to Soulmate AI. We are committed to protecting and respecting
+					Welcome to DeepLove AI. We are committed to protecting and respecting
 					your privacy.
 				</p>
 				<p>
@@ -194,7 +194,7 @@ export default function PrivacyPolicy() {
 			<section className={styles.section}>
 				<h2>III. How do we share your information?</h2>
 				<p>
-					Soulmate AI only share personally identifiable information with third
+					DeepLove AI only share personally identifiable information with third
 					parties when that sharing is permitted by you, or when it&apos;s
 					necessary to complete an action in the software or service, or when
 					legally required to do so. Here are some situations where this can
@@ -204,7 +204,7 @@ export default function PrivacyPolicy() {
 				<h3>To help improve or promote our services:</h3>
 				<p>
 					We may share information and aggregate data we collect on usage and
-					user behavior with third parties, to help improve or promote Soulmate
+					user behavior with third parties, to help improve or promote DeepLove
 					AI, but we do it in such a way that no individual user can be
 					identified or linked to any specific action or information.
 				</p>
