@@ -159,9 +159,9 @@ export default function TermsOfUse() {
 			<section className={styles.section}>
 				<h2>VIII. SERVICE FUNCTION</h2>
 				<p>
-					Soulmate AI is for your entertainment use only, please do not use it
+					DeepLove AI is for your entertainment use only, please do not use it
 					for other commercial purposes. We are not responsible for the content
-					you post on other social apps through Soulmate AI App.
+					you post on other social apps through DeepLove AI App.
 				</p>
 				<p>
 					You are free and solely responsible for the content you create and for
