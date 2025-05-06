@@ -2,8 +2,8 @@ import { Icons } from '@/components/icons'
 import { HomeIcon, NotebookIcon, BookLock, Handshake } from 'lucide-react'
 
 export const DATA = {
-	name: 'Soulmate',
-	initials: 'Soulmate',
+	name: 'Deeplove',
+	initials: 'Deeplove',
 	url: 'https://dillion.io',
 	location: 'San Francisco, CA',
 	locationLink: 'https://www.google.com/maps/place/sanfrancisco',
@@ -12,7 +12,7 @@ export const DATA = {
 
 		What would it feel like if that character listened to your heart every day and comforted you when you were sad?
 
-		Through the AI chat application Soulmate, make all your imagination come true! Create or add your own exclusive character and chat freely with your beloved lifelike character every day.
+		Through the AI chat application Deeplove, make all your imagination come true! Create or add your own exclusive character and chat freely with your beloved lifelike character every day.
 	`,
 	avatarUrl:
 		'https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F5ec332b8-4253-4bc1-b246-0b475ff1256f%2Fc3e50e03-2f2f-49bf-bbc1-1dd2d7d90668%2FHome.png&blockId=16cbeda6-e490-80d9-8224-f460837d966c&width=256',
@@ -29,7 +29,7 @@ export const DATA = {
 		tel: '+123456789',
 		social: {
 			TikTok: {
-				name: 'Soulmate',
+				name: 'Deeplove',
 				url: 'https://tiktok.com/@soulmate',
 				icon: Icons.tiktok,
 				navbar: true,
@@ -50,10 +50,10 @@ export const DATA = {
 			image: '/thoughts.png',
 			desc: "Peek into your character's inner thoughts",
 		},
-		{
-			image: '/mode.png',
-			desc: 'Multiple chat modes',
-		},
+		// {
+		// 	image: '/mode.png',
+		// 	desc: 'Multiple chat modes',
+		// },
 	],
 	howtouse: [
 		{

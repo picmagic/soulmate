@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 export const metadata = {
 	title: 'Blog',
-	description: 'soulmate',
+	description: 'Deeplove',
 }
 
 const BLUR_FADE_DELAY = 0.04
@@ -16,7 +16,7 @@ export default async function BlogPage() {
 		<section>
 			<BlurFade delay={BLUR_FADE_DELAY}>
 				<h1 className='font-medium text-2xl mb-8 tracking-tighter'>
-					Soulmate Blog
+					Deeplove Blog
 				</h1>
 			</BlurFade>
 			{posts
