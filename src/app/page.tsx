@@ -179,16 +179,29 @@ export default function Page() {
 							<h2 className='text-3xl font-bold tracking-tighter sm:text-5xl'>
 								Get in Touch
 							</h2>
-							<p className='mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed'>
-								Need some help? Just shoot us a dm{' '}
-								<Link
-									href={`mailto:${DATA.contact.email}`}
-									className='text-blue-500 hover:underline'
-								>
-									{DATA.contact.email}
-								</Link>{' '}
-								and we&apos;ll respond whenever we can.
-							</p>
+							<div className='mt-4 text-muted-foreground'>
+								<div className='mb-2'>
+									<h3 className='text-lg font-semibold inline-block mr-2'>Company:</h3>
+									<p className='font-medium inline-block'>Onesoft Technology Limited</p>
+								</div>
+								<div className='mb-2'>
+									<h3 className='text-lg font-semibold inline-block mr-2'>Address:</h3>
+									<p className='text-sm inline-block'>
+										RM DO7,8/F KAI TAK FTY BLDG NO 99 KING FUK ST SAN PO KONG,HONG KONG
+									</p>
+								</div>
+								<div>
+									<h3 className='text-lg font-semibold inline-block mr-2'>Email:</h3>
+									<p className='text-sm inline-block'>
+										<Link
+											href='mailto:dxhong1230@gmail.com'
+											className='text-blue-500 hover:underline'
+										>
+											dxhong1230@gmail.com
+										</Link>
+									</p>
+								</div>
+							</div>
 						</div>
 					</BlurFade>
 				</div>

@@ -293,7 +293,7 @@ export default function PrivacyPolicy() {
 				<p>
 					If you have any questions about our Privacy policy, please feel free
 					to contact us:{' '}
-					<a href='mailto:DeridderKoehn@gmail.com'>DeridderKoehn@gmail.com</a>
+					<a href='mailto:dxhong1230@gmail.com'>dxhong1230@gmail.com</a>
 				</p>
 			</section>
 		</div>
