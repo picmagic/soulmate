@@ -9,7 +9,7 @@ export default function PrivacyPolicy() {
 			<section className={styles.section}>
 				<h2>Overview</h2>
 				<p>
-					Welcome to DeepLove AI. We are committed to protecting and respecting
+					Welcome to Deeplove AI. We are committed to protecting and respecting
 					your privacy.
 				</p>
 				<p>
